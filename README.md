@@ -1,4 +1,4 @@
-<h1>LogRot -- A Logo Rotator</h1>
+ <h1>LogRot -- A Logo Rotator</h1>
 
 LogRot is a simple logo rotator plugin. Yes, I know I am reinventing the wheel but on first look I couldn't find a plug-in that did exaclty what I wanted. That and I simply wanted to.
 
@@ -14,6 +14,8 @@ LogRot has a long way to go before I feel comfortable saying it is a full true-t
 <h2>Use:</h2>
 <h5>HTML:</h5>
 LogRot uses an unordered list that is wrapped in a div.
+\<ul\><br />
+\<\/ul\>
 <h5>Call:</h5>
 new logrot("ID-Of-LI", {options:value});
 

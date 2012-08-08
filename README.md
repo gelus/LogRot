@@ -10,8 +10,8 @@ The Idea behind LogRot was to build a plug in that would:
 </ol>
 
 LogRot has a long way to go before I feel comfortable saying it is a full true-to-name plugin but it is functional now.
-
-<h4>Use:</h4>
+<hr />
+<h2>Use:</h2>
 <h5>HTML:</h5>
 LogRot uses an unordered list that is wrapped in a div.
 <h5>Call:</h5>

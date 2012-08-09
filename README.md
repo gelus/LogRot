@@ -15,8 +15,8 @@ LogRot has a long way to go before I feel comfortable saying it is a full true-t
 <h5>HTML:</h5>
 LogRot uses an unordered list that is wrapped in a div.<br />
 \<div\><br />
-\<ul\ id="ID-Of-UL"><br />
-\<li\> Item \</li\><br />
+\<ul id="ID-Of-UL"><br />
+\<li> Item \</li\><br />
 \<li\> Item \</li\><br />
 \<li\> Item \</li\><br />
 \<li\> Item \</li\><br />
